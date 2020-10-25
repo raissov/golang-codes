@@ -1,2 +1,2 @@
 # golang-codes
-Sorry for late submission. I had the problem with electricity 
+Sorry for the late submission. I had the problem with electricity 
